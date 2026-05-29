@@ -1,0 +1,2 @@
+create an image, based on my face (attached image 1: milahu.jpg).
+i need the face of a robot, looking similar to my face, but more blocky, more like a primitive robot face (attached image 2: robot-head-charcoal-drawing-free-vector.clean.jpg)
